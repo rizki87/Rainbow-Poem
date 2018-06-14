@@ -1,4 +1,4 @@
-Pelangi
+Pelangi and The Unicorn
 
 Ungu
 Merah Muda
@@ -7,5 +7,7 @@ Biru
 Merah
 Hijau
 Kuning
+Unicorn 
 
-This are the color of the rainbow.
+This are the color of the rainbow. 
+And the Unicorn.
