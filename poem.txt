@@ -6,5 +6,6 @@ Oranye
 Biru
 Merah
 Hijau
+Kuning
 
 This are the color of the rainbow.
