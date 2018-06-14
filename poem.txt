@@ -8,6 +8,7 @@ Merah
 Hijau
 Kuning
 Unicorn 
+Indigo
 
 This are the color of the rainbow. 
 And the Unicorn.
